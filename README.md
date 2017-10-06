@@ -1,4 +1,5 @@
 # MovieDetailsMiniApp
+
 Electrode Native - Movie Details MiniApp (Getting Started)
 
 Application that has a UI to display details of a given movie.
@@ -28,7 +29,12 @@ $ ern run-android
 $ ern run-ios
 ```
 
-
 # Run the app with MovieListMiniApp.
 
  [Follow instructions here](https://github.com/electrode-io/MovieListMiniApp#run-the-app-with-moviedetailsminiapp)
+
+# Branching strategy
+
+There is one branch per version of Electrode Native used by the MiniApp (i.e `ern-v0.7`, `ern-v0.8` ...).  
+The default branch is always set to match the latest available version of Electrode Native.  
+The master branch is used for Electrode Native development version (1000.0.0). 
