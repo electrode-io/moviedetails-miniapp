@@ -1,5 +1,5 @@
 /* eslint-disable no-undef, max-params */
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
 import {
   View,
   Text,
@@ -10,6 +10,7 @@ import { bs } from './components/base-styles'
 import starFull from './assets/star-full.png'
 import starEmpty from './assets/star-empty.png'
 import starPartial from './assets/star-partial.png'
+const PropTypes = require('prop-types');
 
 export default class MovieDetails extends Component {
   constructor (props) {
