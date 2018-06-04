@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "0.55.3"
+    "react-native": "0.55.4"
   },
   "ern": {
     "version": "1000.0.0",
