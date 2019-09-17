@@ -6,8 +6,8 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "react": "16.8.3",
-    "react-native": "0.59.8"
+    "react": "16.8.6",
+    "react-native": "0.60.5"
   },
   "ern": {
     "version": "1000.0.0",
